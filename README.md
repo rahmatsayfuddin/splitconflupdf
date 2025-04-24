@@ -7,7 +7,7 @@ Select What to Export
 ![image](https://github.com/user-attachments/assets/c964167c-4c39-490d-b4e2-c6dc44905097)
 ![image](https://github.com/user-attachments/assets/168a6e51-2f6e-42fb-8745-6ef2907112d1)
 
-If your ToC (Table of Content) like this, you can use this tool
+If your ToC (Table of Content) like this, **you can use this tool**
 ![image](https://github.com/user-attachments/assets/16f92c7f-1b45-4799-8c6c-cfb77ec328a9)
  
 
