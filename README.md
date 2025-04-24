@@ -41,6 +41,3 @@ python splitconflupdf.py input.pdf
 
 # Specify output directory
 python splitconflupdf.py input.pdf --output my_sections
-
-# Process specific pages (e.g., 5-20)
-python splitconflupdf.py input.pdf --start 5 --end 20
